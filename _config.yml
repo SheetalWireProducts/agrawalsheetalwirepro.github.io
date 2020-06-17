@@ -11,12 +11,12 @@ url: "SheetalWireProducts.github.io" # the base hostname & protocol for your sit
 # User setting
 owner: Sheetal Agrawal
 email: agrawalsheetalwirepro@rediffmail.com
-facebook_username:
-twitter_username:
+#facebook_username:
+#twitter_username:
 github_username: SheetalWireProducts
 address: 711/4, Industrial Area 
   - line: Rawabhata, Raipur (C.G)
-  - line:
+ # - line:
   # Feel free to add more lines here 
 telephone: +91-9300291347, +91-6265898703
 copyright:SheetalWireProducts
